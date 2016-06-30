@@ -1,0 +1,12 @@
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\CallAStoreProcedure\bin\Debug\CallAStoreProcedure.exe.config
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\CallAStoreProcedure\obj\Debug\CallAStoreProcedure.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\CallAStoreProcedure\bin\Debug\CallAStoreProcedure.exe
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\CallAStoreProcedure\bin\Debug\CallAStoreProcedure.pdb
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\CallAStoreProcedure\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\CallAStoreProcedure\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\CallAStoreProcedure\bin\Debug\EntityFrameWorkHomework.exe
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\CallAStoreProcedure\bin\Debug\EntityFrameWorkHomework.pdb
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\CallAStoreProcedure\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\CallAStoreProcedure\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\CallAStoreProcedure\obj\Debug\CallAStoreProcedure.exe
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\CallAStoreProcedure\obj\Debug\CallAStoreProcedure.pdb

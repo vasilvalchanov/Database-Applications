@@ -1,0 +1,12 @@
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\NativeSQLQuery\bin\Debug\NativeSQLQuery.exe.config
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\NativeSQLQuery\bin\Debug\NativeSQLQuery.exe
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\NativeSQLQuery\bin\Debug\NativeSQLQuery.pdb
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\NativeSQLQuery\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\NativeSQLQuery\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\NativeSQLQuery\bin\Debug\EntityFrameWorkHomework.exe
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\NativeSQLQuery\bin\Debug\EntityFrameWorkHomework.pdb
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\NativeSQLQuery\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\NativeSQLQuery\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\NativeSQLQuery\obj\Debug\NativeSQLQuery.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\NativeSQLQuery\obj\Debug\NativeSQLQuery.exe
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\NativeSQLQuery\obj\Debug\NativeSQLQuery.pdb

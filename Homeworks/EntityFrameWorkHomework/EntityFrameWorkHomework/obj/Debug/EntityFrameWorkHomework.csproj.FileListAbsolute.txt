@@ -1,0 +1,10 @@
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\EntityFrameWorkHomework\bin\Debug\EntityFrameWorkHomework.exe.config
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\EntityFrameWorkHomework\bin\Debug\EntityFrameWorkHomework.exe
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\EntityFrameWorkHomework\bin\Debug\EntityFrameWorkHomework.pdb
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\EntityFrameWorkHomework\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\EntityFrameWorkHomework\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\EntityFrameWorkHomework\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\EntityFrameWorkHomework\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\EntityFrameWorkHomework\obj\Debug\EntityFrameWorkHomework.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\EntityFrameWorkHomework\obj\Debug\EntityFrameWorkHomework.exe
+G:\DatabaseApplications\Homeworks\EntityFrameWorkHomework\EntityFrameWorkHomework\obj\Debug\EntityFrameWorkHomework.pdb

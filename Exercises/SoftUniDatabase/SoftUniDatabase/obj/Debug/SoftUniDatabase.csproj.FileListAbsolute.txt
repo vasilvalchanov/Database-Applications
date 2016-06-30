@@ -1,0 +1,10 @@
+G:\DatabaseApplications\Exercises\SoftUniDatabase\SoftUniDatabase\bin\Debug\SoftUniDatabase.exe.config
+G:\DatabaseApplications\Exercises\SoftUniDatabase\SoftUniDatabase\bin\Debug\SoftUniDatabase.exe
+G:\DatabaseApplications\Exercises\SoftUniDatabase\SoftUniDatabase\bin\Debug\SoftUniDatabase.pdb
+G:\DatabaseApplications\Exercises\SoftUniDatabase\SoftUniDatabase\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\Exercises\SoftUniDatabase\SoftUniDatabase\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\Exercises\SoftUniDatabase\SoftUniDatabase\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\Exercises\SoftUniDatabase\SoftUniDatabase\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\Exercises\SoftUniDatabase\SoftUniDatabase\obj\Debug\SoftUniDatabase.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\Exercises\SoftUniDatabase\SoftUniDatabase\obj\Debug\SoftUniDatabase.exe
+G:\DatabaseApplications\Exercises\SoftUniDatabase\SoftUniDatabase\obj\Debug\SoftUniDatabase.pdb
