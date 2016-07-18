@@ -1,0 +1,12 @@
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Data\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Data\bin\Debug\StudentSystem.Models.dll
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Data\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb

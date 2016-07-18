@@ -1,0 +1,10 @@
+G:\DatabaseApplications\Homeworks\EFPerformanceHomework\AdsSystem\bin\Debug\AdsSystem.exe.config
+G:\DatabaseApplications\Homeworks\EFPerformanceHomework\AdsSystem\bin\Debug\AdsSystem.exe
+G:\DatabaseApplications\Homeworks\EFPerformanceHomework\AdsSystem\bin\Debug\AdsSystem.pdb
+G:\DatabaseApplications\Homeworks\EFPerformanceHomework\AdsSystem\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\Homeworks\EFPerformanceHomework\AdsSystem\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\Homeworks\EFPerformanceHomework\AdsSystem\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\Homeworks\EFPerformanceHomework\AdsSystem\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\Homeworks\EFPerformanceHomework\AdsSystem\obj\Debug\AdsSystem.exe
+G:\DatabaseApplications\Homeworks\EFPerformanceHomework\AdsSystem\obj\Debug\AdsSystem.pdb
+G:\DatabaseApplications\Homeworks\EFPerformanceHomework\AdsSystem\obj\Debug\AdsSystem.csprojResolveAssemblyReference.cache

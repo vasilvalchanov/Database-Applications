@@ -1,0 +1,5 @@
+G:\DatabaseApplications\Homeworks\XMLBasicCoceptsHomework\XMLBasicCoceptsHomework\bin\Debug\XMLBasicCoceptsHomework.exe.config
+G:\DatabaseApplications\Homeworks\XMLBasicCoceptsHomework\XMLBasicCoceptsHomework\bin\Debug\XMLBasicCoceptsHomework.exe
+G:\DatabaseApplications\Homeworks\XMLBasicCoceptsHomework\XMLBasicCoceptsHomework\bin\Debug\XMLBasicCoceptsHomework.pdb
+G:\DatabaseApplications\Homeworks\XMLBasicCoceptsHomework\XMLBasicCoceptsHomework\obj\Debug\XMLBasicCoceptsHomework.exe
+G:\DatabaseApplications\Homeworks\XMLBasicCoceptsHomework\XMLBasicCoceptsHomework\obj\Debug\XMLBasicCoceptsHomework.pdb

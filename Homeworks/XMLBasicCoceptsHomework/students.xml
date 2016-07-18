@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<students xmlns="urn:students">
+	<student>
+		<name>Ivan Ivanov</name>
+		<gender>Male</gender>
+		<birth-date>1986-05-15</birth-date>
+		<email>iivanov@gmail.com</email>
+		<university>SoftUni</university>
+		<specialty>C# Developer</specialty>
+		<faculty-number>12345567</faculty-number>
+		<taken-exams>
+			<exam>
+				<exam-name>OOP Basic</exam-name>
+				<date-taken>2016-07-10</date-taken>
+				<grade>5.35</grade>
+			</exam>
+			<exam>
+				<exam-name>OOP Advance</exam-name>
+				<date-taken>2016-08-02</date-taken>
+				<grade>5.12</grade>
+			</exam>
+			<exam>
+				<exam-name>Databases</exam-name>
+				<date-taken>2016-09-20</date-taken>
+				<grade>5.88</grade>
+			</exam>
+		</taken-exams>
+	</student>
+	<student>
+		<name>Temelko Ivanov</name>
+		<gender>Male</gender>
+		<birth-date>1995-02-02</birth-date>
+		<phone-number>0889 213 656</phone-number>
+		<email>sexbog95@abv.bg</email>
+		<university>SoftUni</university>
+		<specialty>Not specified</specialty>
+		<taken-exams>
+			<exam>
+				<exam-name>Programming Basics</exam-name>
+				<date-taken>2016-06-12</date-taken>
+				<grade>3.33</grade>
+			</exam>
+		</taken-exams>
+    <endorsements>
+      <author>Parlapun</author>
+      <author-email>parlapun@gmail.com</author-email>
+      <endorsement-date>2016-05-04</endorsement-date>
+      <endorsement-text>some text</endorsement-text>        
+    </endorsements>
+	</student>
+	<student>
+		<name>Gichka Todorova</name>
+		<gender>Female</gender>
+		<birth-date>1993-06-15</birth-date>
+		<phone-number>0889 54 54 54</phone-number>
+		<email>kifla_v_mola@gmail.com</email>
+		<university>Kifla University</university>
+		<specialty>Kifla Styling</specialty>
+		<faculty-number>888888</faculty-number>
+		<taken-exams>
+			<exam>
+				<exam-name>How to behave like a real kifla</exam-name>
+				<date-taken>2016-03-13</date-taken>
+				<grade>5.98</grade>
+			</exam>
+			<exam>
+				<exam-name>How to make a real kifla selfy</exam-name>
+				<date-taken>2016-07-10</date-taken>
+				<grade>5.76</grade>
+			</exam>
+		</taken-exams>
+	</student>
+</students>

@@ -1,0 +1,14 @@
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\bin\Debug\NewsDB.Client.exe.config
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\bin\Debug\NewsDB.Client.exe
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\bin\Debug\NewsDB.Client.pdb
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\bin\Debug\NewsDB.Data.dll
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\bin\Debug\NewsDB.Models.dll
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\bin\Debug\NewsDB.Data.pdb
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\bin\Debug\NewsDB.Models.pdb
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\obj\Debug\NewsDB.Client.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\obj\Debug\NewsDB.Client.exe
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Client\obj\Debug\NewsDB.Client.pdb

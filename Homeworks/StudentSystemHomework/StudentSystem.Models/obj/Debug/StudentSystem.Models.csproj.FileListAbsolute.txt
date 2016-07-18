@@ -1,0 +1,4 @@
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Models\bin\Debug\StudentSystem.Models.pdb
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Models\obj\Debug\StudentSystem.Models.dll
+G:\DatabaseApplications\Homeworks\StudentSystemHomework\StudentSystem.Models\obj\Debug\StudentSystem.Models.pdb

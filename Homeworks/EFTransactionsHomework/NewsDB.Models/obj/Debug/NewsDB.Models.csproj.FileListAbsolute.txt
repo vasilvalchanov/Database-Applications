@@ -1,0 +1,5 @@
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Models\bin\Debug\NewsDB.Models.dll
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Models\bin\Debug\NewsDB.Models.pdb
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Models\obj\Debug\NewsDB.Models.dll
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Models\obj\Debug\NewsDB.Models.pdb
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\NewsDB.Models\obj\Debug\NewsDB.Models.csprojResolveAssemblyReference.cache

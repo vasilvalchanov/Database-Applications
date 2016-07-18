@@ -1,0 +1,10 @@
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\ATM\bin\Debug\ATM.exe.config
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\ATM\bin\Debug\ATM.exe
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\ATM\bin\Debug\ATM.pdb
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\ATM\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\ATM\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\ATM\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\ATM\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\ATM\obj\Debug\ATM.exe
+G:\DatabaseApplications\Homeworks\EFTransactionsHomework\ATM\obj\Debug\ATM.pdb
