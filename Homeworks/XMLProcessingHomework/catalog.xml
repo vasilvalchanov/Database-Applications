@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<albums>
+	<album>
+		<name>The King of Limbs</name>
+		<artist>Radiohead</artist>
+		<year>2011</year>
+		<producer>Nigel Godrich</producer>
+		<price>15.00</price>
+		<songs>
+			<song>
+				<title>Bloom</title>
+				<duration>5:15</duration>
+			</song>
+			<song>
+				<title>Morning Mr Magpie</title>
+				<duration>4:41</duration>
+			</song>
+			<song>
+				<title>Little by Little</title>
+				<duration>4:27</duration>
+			</song>
+			<song>
+				<title>Feral</title>
+				<duration>3:13</duration>
+			</song>
+			<song>
+				<title>Lotus Flower</title>
+				<duration>5:01</duration>
+			</song>
+			<song>
+				<title>Codex</title>
+				<duration>4:47</duration>
+			</song>
+			<song>
+				<title>Give Up the Ghost</title>
+				<duration>4:50</duration>
+			</song>
+			<song>
+				<title>Separator</title>
+				<duration>5:20</duration>
+			</song>
+		</songs>
+	</album>
+	<album>
+		<name>Dummy</name>
+		<artist>Portishead</artist>
+		<year>1994</year>
+		<producer>Portishead</producer>
+		<price>11.50</price>
+		<songs>
+			<song>
+				<title>Mysterons</title>
+				<duration>5:02</duration>
+			</song>
+			<song>
+				<title>Sour Times</title>
+				<duration>4:11</duration>
+			</song>
+			<song>
+				<title>Strangers</title>
+				<duration>3:55</duration>
+			</song>
+			<song>
+				<title>It Could Be Sweet</title>
+				<duration>4:16</duration>
+			</song>
+			<song>
+				<title>Wandering Star</title>
+				<duration>4:51</duration>
+			</song>
+			<song>
+				<title>It's a Fire</title>
+				<duration>3:49</duration>
+			</song>
+			<song>
+				<title>Numb</title>
+				<duration>3:54</duration>
+			</song>
+			<song>
+				<title>Roads</title>
+				<duration>5:02</duration>
+			</song>
+		</songs>
+	</album>
+	<album>
+		<name>Third</name>
+		<artist>Portishead</artist>
+		<year>2008</year>
+		<producer>Portishead</producer>
+		<price>21.50</price>
+		<songs>
+			<song>
+				<title>Silence</title>
+				<duration>4:58</duration>
+			</song>
+			<song>
+				<title>Hunter</title>
+				<duration>3:57</duration>
+			</song>
+			<song>
+				<title>Nylon Smile</title>
+				<duration>3:16</duration>
+			</song>
+			<song>
+				<title>The Rip</title>
+				<duration>4:29</duration>
+			</song>
+			<song>
+				<title>Plastic</title>
+				<duration>3:27</duration>
+			</song>
+			<song>
+				<title>We Carry On</title>
+				<duration>6:27</duration>
+			</song>
+			<song>
+				<title>Small</title>
+				<duration>6:45</duration>
+			</song>
+			<song>
+				<title>Machine Gun</title>
+				<duration>4:43</duration>
+			</song>
+		</songs>
+	</album>
+</albums>

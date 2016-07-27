@@ -1,0 +1,6 @@
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Models\bin\Debug\ProductsShop.Models.dll
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Models\bin\Debug\ProductsShop.Models.pdb
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Models\obj\Debug\ProductsShop.Models.dll
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Models\obj\Debug\ProductsShop.Models.pdb
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Models\bin\Debug\Newtonsoft.Json.dll
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Models\bin\Debug\Newtonsoft.Json.xml

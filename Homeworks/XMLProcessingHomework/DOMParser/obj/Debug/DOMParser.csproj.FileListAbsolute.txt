@@ -1,0 +1,6 @@
+G:\DatabaseApplications\Homeworks\XMLProcessingHomework\DOMParser\bin\Debug\DOMParser.exe.config
+G:\DatabaseApplications\Homeworks\XMLProcessingHomework\DOMParser\bin\Debug\DOMParser.exe
+G:\DatabaseApplications\Homeworks\XMLProcessingHomework\DOMParser\bin\Debug\DOMParser.pdb
+G:\DatabaseApplications\Homeworks\XMLProcessingHomework\DOMParser\obj\Debug\DOMParser.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\Homeworks\XMLProcessingHomework\DOMParser\obj\Debug\DOMParser.exe
+G:\DatabaseApplications\Homeworks\XMLProcessingHomework\DOMParser\obj\Debug\DOMParser.pdb

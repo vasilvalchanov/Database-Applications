@@ -1,0 +1,14 @@
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\bin\Debug\ProductsShop.Data.dll.config
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\bin\Debug\ProductsShop.Data.dll
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\bin\Debug\ProductsShop.Data.pdb
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\bin\Debug\EntityFramework.dll
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\bin\Debug\ProductsShop.Models.dll
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\bin\Debug\ProductsShop.Models.pdb
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\bin\Debug\EntityFramework.xml
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\obj\Debug\ProductsShop.Data.csprojResolveAssemblyReference.cache
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\obj\Debug\ProductsShop.Data.dll
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\obj\Debug\ProductsShop.Data.pdb
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\bin\Debug\Newtonsoft.Json.dll
+G:\DatabaseApplications\Homeworks\ProcessingJSONHomework\ProductsShop.Data\bin\Debug\Newtonsoft.Json.xml
